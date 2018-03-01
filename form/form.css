@@ -1,0 +1,8 @@
+#margin_fix{
+   margin-left: 15px;
+   margin-right: 15px; 
+}
+#next_button{
+    color: white !important;
+}
+body {background-color: lightblue;}

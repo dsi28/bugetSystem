@@ -1,0 +1,33 @@
+
+.bg-blue_fau{
+    background-color: #3B5998;!important
+}
+
+.btn-red_fau{
+    background-color: #CC0000; !important
+}
+
+html{
+    overflow-x: hidden;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top-logo-brand{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#btn_hide{
+    visibility: hidden;
+}
+
+#footer {
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #CC0000;
+}
+
